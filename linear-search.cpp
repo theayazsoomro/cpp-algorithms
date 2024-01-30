@@ -29,7 +29,7 @@ int linearSearch(int arr[], int n, int x)
     	}
     	
     }
-    
+    // If elements not found
     if(val == -1)
 	{
 		cout << "Element Not Found ";
